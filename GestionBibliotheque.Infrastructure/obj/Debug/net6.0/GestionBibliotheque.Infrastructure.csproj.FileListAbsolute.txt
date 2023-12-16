@@ -1,0 +1,17 @@
+C:\Users\chalg\OneDrive\Bureau\.NET\GestionBibliotheque_ASP.NET\GestionBibliotheque.Infrastructure\bin\Debug\net6.0\GestionBibliotheque.Infrastructure.deps.json
+C:\Users\chalg\OneDrive\Bureau\.NET\GestionBibliotheque_ASP.NET\GestionBibliotheque.Infrastructure\bin\Debug\net6.0\GestionBibliotheque.Infrastructure.runtimeconfig.json
+C:\Users\chalg\OneDrive\Bureau\.NET\GestionBibliotheque_ASP.NET\GestionBibliotheque.Infrastructure\bin\Debug\net6.0\GestionBibliotheque.Infrastructure.dll
+C:\Users\chalg\OneDrive\Bureau\.NET\GestionBibliotheque_ASP.NET\GestionBibliotheque.Infrastructure\bin\Debug\net6.0\GestionBibliotheque.Infrastructure.pdb
+C:\Users\chalg\OneDrive\Bureau\.NET\GestionBibliotheque_ASP.NET\GestionBibliotheque.Infrastructure\bin\Debug\net6.0\GestionBibliotheque.ApplicationCore.dll
+C:\Users\chalg\OneDrive\Bureau\.NET\GestionBibliotheque_ASP.NET\GestionBibliotheque.Infrastructure\bin\Debug\net6.0\GestionBibliotheque.ApplicationCore.pdb
+C:\Users\chalg\OneDrive\Bureau\.NET\GestionBibliotheque_ASP.NET\GestionBibliotheque.Infrastructure\obj\Debug\net6.0\GestionBibliotheque.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\chalg\OneDrive\Bureau\.NET\GestionBibliotheque_ASP.NET\GestionBibliotheque.Infrastructure\obj\Debug\net6.0\GestionBibliotheque.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chalg\OneDrive\Bureau\.NET\GestionBibliotheque_ASP.NET\GestionBibliotheque.Infrastructure\obj\Debug\net6.0\GestionBibliotheque.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\chalg\OneDrive\Bureau\.NET\GestionBibliotheque_ASP.NET\GestionBibliotheque.Infrastructure\obj\Debug\net6.0\GestionBibliotheque.Infrastructure.AssemblyInfo.cs
+C:\Users\chalg\OneDrive\Bureau\.NET\GestionBibliotheque_ASP.NET\GestionBibliotheque.Infrastructure\obj\Debug\net6.0\GestionBibliotheque.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\chalg\OneDrive\Bureau\.NET\GestionBibliotheque_ASP.NET\GestionBibliotheque.Infrastructure\obj\Debug\net6.0\GestionBibliotheque.Infrastructure.csproj.CopyComplete
+C:\Users\chalg\OneDrive\Bureau\.NET\GestionBibliotheque_ASP.NET\GestionBibliotheque.Infrastructure\obj\Debug\net6.0\GestionBibliotheque.Infrastructure.dll
+C:\Users\chalg\OneDrive\Bureau\.NET\GestionBibliotheque_ASP.NET\GestionBibliotheque.Infrastructure\obj\Debug\net6.0\refint\GestionBibliotheque.Infrastructure.dll
+C:\Users\chalg\OneDrive\Bureau\.NET\GestionBibliotheque_ASP.NET\GestionBibliotheque.Infrastructure\obj\Debug\net6.0\GestionBibliotheque.Infrastructure.pdb
+C:\Users\chalg\OneDrive\Bureau\.NET\GestionBibliotheque_ASP.NET\GestionBibliotheque.Infrastructure\obj\Debug\net6.0\GestionBibliotheque.Infrastructure.genruntimeconfig.cache
+C:\Users\chalg\OneDrive\Bureau\.NET\GestionBibliotheque_ASP.NET\GestionBibliotheque.Infrastructure\obj\Debug\net6.0\ref\GestionBibliotheque.Infrastructure.dll

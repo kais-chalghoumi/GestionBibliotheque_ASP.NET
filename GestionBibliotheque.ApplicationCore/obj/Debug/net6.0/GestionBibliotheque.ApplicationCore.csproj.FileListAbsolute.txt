@@ -1,0 +1,12 @@
+C:\Users\chalg\OneDrive\Bureau\.NET\GestionBibliotheque_ASP.NET\GestionBibliotheque.ApplicationCore\bin\Debug\net6.0\GestionBibliotheque.ApplicationCore.deps.json
+C:\Users\chalg\OneDrive\Bureau\.NET\GestionBibliotheque_ASP.NET\GestionBibliotheque.ApplicationCore\bin\Debug\net6.0\GestionBibliotheque.ApplicationCore.dll
+C:\Users\chalg\OneDrive\Bureau\.NET\GestionBibliotheque_ASP.NET\GestionBibliotheque.ApplicationCore\bin\Debug\net6.0\GestionBibliotheque.ApplicationCore.pdb
+C:\Users\chalg\OneDrive\Bureau\.NET\GestionBibliotheque_ASP.NET\GestionBibliotheque.ApplicationCore\obj\Debug\net6.0\GestionBibliotheque.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\chalg\OneDrive\Bureau\.NET\GestionBibliotheque_ASP.NET\GestionBibliotheque.ApplicationCore\obj\Debug\net6.0\GestionBibliotheque.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chalg\OneDrive\Bureau\.NET\GestionBibliotheque_ASP.NET\GestionBibliotheque.ApplicationCore\obj\Debug\net6.0\GestionBibliotheque.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\chalg\OneDrive\Bureau\.NET\GestionBibliotheque_ASP.NET\GestionBibliotheque.ApplicationCore\obj\Debug\net6.0\GestionBibliotheque.ApplicationCore.AssemblyInfo.cs
+C:\Users\chalg\OneDrive\Bureau\.NET\GestionBibliotheque_ASP.NET\GestionBibliotheque.ApplicationCore\obj\Debug\net6.0\GestionBibliotheque.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\chalg\OneDrive\Bureau\.NET\GestionBibliotheque_ASP.NET\GestionBibliotheque.ApplicationCore\obj\Debug\net6.0\GestionBibliotheque.ApplicationCore.dll
+C:\Users\chalg\OneDrive\Bureau\.NET\GestionBibliotheque_ASP.NET\GestionBibliotheque.ApplicationCore\obj\Debug\net6.0\refint\GestionBibliotheque.ApplicationCore.dll
+C:\Users\chalg\OneDrive\Bureau\.NET\GestionBibliotheque_ASP.NET\GestionBibliotheque.ApplicationCore\obj\Debug\net6.0\GestionBibliotheque.ApplicationCore.pdb
+C:\Users\chalg\OneDrive\Bureau\.NET\GestionBibliotheque_ASP.NET\GestionBibliotheque.ApplicationCore\obj\Debug\net6.0\ref\GestionBibliotheque.ApplicationCore.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GestionBibliotheque.UI.Web.props" />
+</Project>
